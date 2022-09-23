@@ -6,10 +6,8 @@ Pre-College study #5
 # About this study exercise
 This game was my fifth coding exercise, it was created so that I could understand about how to adapt a game from one engine to another.
 ## Previous stage
-I had just created the 2D Car Game using windows forms and learned about the Unity Editor while creating a 
-[Banana Eating Frog Game](https://github.com/sergiofpaim/Banana-Eating-Frog-Game)
+I had just created the [2D Car Game](https://github.com/sergiofpaim/2D-Car-Game) using windows forms and learned about the Unity Editor while creating a [Banana Eating Frog Game](https://github.com/sergiofpaim/Banana-Eating-Frog-Game)
 
-[2D Car Game](https://github.com/sergiofpaim/2D-Car-Game)
 ### Challenge 
 My challenge was to migrate the simulation logic that was first built in the Windows Forms 2D Car Game (on top of its proprietary engine) to the Unity Engine.
 The hardest part was to figure out how to structure the game (visual and simulation) logic in a way other than simply following most of the tutorials that teach keeping the logic into a few Mono Behaviours related to view game components.
