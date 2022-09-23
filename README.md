@@ -6,7 +6,8 @@ Pre-College study #5
 # About this study exercise
 This game was my fifth coding exercise, it was created so that I could understand about how to adapt a game from one engine to another.
 ## Previous stage
-I had just created the 2D Car Game using windows forms.
+I had just created the 2D Car Game using windows forms and learned about the Unity Editor while creating a 
+[Banana Eating Frog Game](https://github.com/sergiofpaim/Banana-Eating-Frog-Game)
 
 [2D Car Game](https://github.com/sergiofpaim/2D-Car-Game)
 ### Challenge 
