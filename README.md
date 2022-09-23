@@ -1,10 +1,10 @@
 # 2D-Car-Game-Unity
 2D Car Game made for windows forms, adapted to the Unity engine.
 
-Pre-College study #5
+Pre-College study #6
 
 # About this study exercise
-This game was my fifth coding exercise, it was created so that I could understand about how to adapt a game from one engine to another.
+This game was my sixth coding exercise, it was created so that I could understand about how to adapt a game from one engine to another.
 ## Previous stage
 I had just created the [2D Car Game](https://github.com/sergiofpaim/2D-Car-Game) using windows forms and learned about the Unity Editor while creating a [Banana Eating Frog Game](https://github.com/sergiofpaim/Banana-Eating-Frog-Game)
 
